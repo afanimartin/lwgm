@@ -2562,6 +2562,12 @@ blockquote {
 
 .image-signature {
   margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.image-signature h5 {
+  margin-left: 10px;
 }
 
 .grid-content {

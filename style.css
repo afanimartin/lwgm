@@ -2343,7 +2343,7 @@ blockquote {
 .header-section.home-hero {
   height: 1100px;
   background-color: #070b0c;
-  background-image: url(./images/church-hero.jpg);
+  background-image: url("https://res.cloudinary.com/dmyhendcr/image/upload/v1689843768/living_word/WhatsApp_Image_2023-07-19_at_22.56.01_2_lnlsja.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

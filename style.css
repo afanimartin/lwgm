@@ -7170,7 +7170,8 @@ blockquote {
     grid-column-end: span 2;
   }
 
-  /* #footer-grid ul {
-    display: block;
-  } */
+  #footer-grid > ul {
+    display: grid !important;
+    grid-template-columns: 100% !important;
+  }
 }

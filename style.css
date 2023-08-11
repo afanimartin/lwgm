@@ -2016,7 +2016,7 @@ p {
 
 a {
   font-family: Montserrat, sans-serif;
-  color: #ffc961;
+  color: #02a5f6;
   font-weight: 600;
   text-decoration: none;
 }
@@ -2072,7 +2072,7 @@ blockquote {
 }
 
 .nav-link:hover {
-  color: #ffc961;
+  color: #02a5f6;
   text-decoration: none;
 }
 
@@ -2140,7 +2140,7 @@ blockquote {
 }
 
 .dropdown-link:hover {
-  background-color: #ffc961;
+  background-color: #02a5f6;
   color: #070b0c;
 }
 
@@ -2234,8 +2234,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 1px solid #ffc961;
-  background-color: #ffc961;
+  border: 1px solid #02a5f6;
+  background-color: #02a5f6;
   -webkit-transition: color 200ms ease-in-out,
     background-color 200ms ease-in-out;
   transition: color 200ms ease-in-out, background-color 200ms ease-in-out;
@@ -2292,12 +2292,12 @@ blockquote {
 }
 
 .secondary-button:hover {
-  border-color: #ffc961;
-  background-color: #ffc961;
+  border-color: #02a5f6;
+  background-color: #02a5f6;
 }
 
 .secondary-button.hero-button:hover {
-  border-color: #ffc961;
+  border-color: #02a5f6;
 }
 
 .featured-events-text {
@@ -2604,7 +2604,7 @@ blockquote {
 }
 
 .section.orange-bg {
-  background-color: #ffc961;
+  background-color: #02a5f6;
 }
 
 .section-title {
@@ -2890,7 +2890,7 @@ blockquote {
 }
 
 .contact-us-input:focus {
-  border: 1px solid #ffc961;
+  border: 1px solid #02a5f6;
   color: #f5f5f5;
 }
 
@@ -2948,7 +2948,7 @@ blockquote {
 }
 
 .contact-us-link:hover {
-  color: #ffc961;
+  color: #02a5f6;
 }
 
 .form-button {
@@ -2966,8 +2966,8 @@ blockquote {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 1px solid #ffc961;
-  background-color: #ffc961;
+  border: 1px solid #02a5f6;
+  background-color: #02a5f6;
   -webkit-transition: color 200ms ease-in-out,
     background-color 200ms ease-in-out;
   transition: color 200ms ease-in-out, background-color 200ms ease-in-out;
@@ -3045,7 +3045,7 @@ blockquote {
 }
 
 .message-input:focus {
-  border: 1px solid #ffc961;
+  border: 1px solid #02a5f6;
   color: #f5f5f5;
 }
 
@@ -3089,7 +3089,7 @@ blockquote {
 
 .footer-link:hover {
   background-color: transparent;
-  color: #ffc961;
+  color: #02a5f6;
 }
 
 .footer-link.opacity {
@@ -3151,7 +3151,7 @@ blockquote {
 }
 
 .footer-social-media-link-block:hover {
-  background-color: #ffc961;
+  background-color: #02a5f6;
   text-decoration: none;
 }
 
@@ -3190,7 +3190,7 @@ blockquote {
 }
 
 .contact-footer-link:hover {
-  color: #ffc961;
+  color: #02a5f6;
 }
 
 .footer-input {
@@ -3211,7 +3211,7 @@ blockquote {
 }
 
 .footer-input:focus {
-  border-color: #ffc961;
+  border-color: #02a5f6;
 }
 
 .footer-title {
@@ -3254,7 +3254,7 @@ blockquote {
 
 .footer-send-button {
   width: 100%;
-  background-color: #ffc961;
+  background-color: #02a5f6;
   -webkit-transition: background-color 200ms ease-in-out;
   transition: background-color 200ms ease-in-out;
   color: #070b0c;
@@ -3405,7 +3405,7 @@ blockquote {
   top: 625px;
   margin-top: 1px;
   padding: 40px;
-  border-left: 5px solid #ffc961;
+  border-left: 5px solid #02a5f6;
   background-color: #070b0c;
   color: #fff;
 }
@@ -3607,7 +3607,7 @@ blockquote {
 
 .article-date {
   margin-bottom: 20px;
-  color: #ffc961;
+  color: #02a5f6;
   font-size: 16px;
 }
 
@@ -3667,7 +3667,7 @@ blockquote {
 }
 
 .featured-sermon-title:hover {
-  color: #ffc961;
+  color: #02a5f6;
 }
 
 .featured-sermons-date {
@@ -3784,7 +3784,7 @@ blockquote {
 }
 
 .event-block:hover {
-  border-color: #ffc961;
+  border-color: #02a5f6;
 }
 
 .info-bg {
@@ -4006,7 +4006,7 @@ blockquote {
 }
 
 .social-media-link-block:hover {
-  background-color: #ffc961;
+  background-color: #02a5f6;
   text-decoration: none;
 }
 
@@ -4241,7 +4241,7 @@ blockquote {
   }
 
   .nav-link:hover {
-    color: #ffc961;
+    color: #02a5f6;
   }
 
   .nav-link.w--current {
@@ -4259,12 +4259,12 @@ blockquote {
   }
 
   .menu-button:hover {
-    border-color: #ffc961;
-    background-color: #ffc961;
+    border-color: #02a5f6;
+    background-color: #02a5f6;
   }
 
   .menu-button.w--open {
-    background-color: #ffc961;
+    background-color: #02a5f6;
   }
 
   .menu-icon {

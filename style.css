@@ -102,7 +102,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  /* font-family: monospace, monospace; */
   font-size: 1em;
 }
 button,
@@ -228,7 +228,7 @@ th {
 html {
   height: 100%;
 }
-body {
+/* body {
   margin: 0;
   min-height: 100%;
   background-color: #fff;
@@ -236,7 +236,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333;
-}
+} */
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -1938,12 +1938,12 @@ textarea.w-select {
   grid-column-gap: 16px;
 }
 
-body {
+/* body {
   font-family: Roboto, sans-serif;
   color: hsla(0, 0%, 96.1%, 0.89);
   font-size: 18px;
   line-height: 28px;
-}
+} */
 
 h1 {
   margin-top: 20px;
